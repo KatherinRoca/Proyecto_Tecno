@@ -1,0 +1,13 @@
+C:\Users\50246\Desktop\Proyectokatherin3\KatherinGA1\KatherinGA1\bin\Debug\KatherinGA1.exe.config
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\bin\Debug\KatherinGA1.exe.config
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\bin\Debug\KatherinGA1.exe
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\bin\Debug\KatherinGA1.pdb
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\bin\Debug\KatherinGA1.xml
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.vbprojResolveAssemblyReference.cache
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.Form1.resources
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.Form2.resources
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.Resources.resources
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.vbproj.GenerateResource.Cache
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.exe
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.xml
+C:\Users\PC25LAB4\Desktop\KatherinGA1\KatherinGA1\obj\Debug\KatherinGA1.pdb
